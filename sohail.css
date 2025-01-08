@@ -1,0 +1,72 @@
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0; 
+    width: 100%; 
+  }
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+ 
+  .navbar a:hover {
+    background: #ddd;
+    color: rgb(236, 12, 12);
+  }
+  
+
+  .main {
+    margin-top: 30px; 
+  }
+
+
+
+
+
+
+
+
+
+
+body{
+    background-color: #FFCFEF;
+}
+
+#intro{
+    color: blue;
+}
+
+.sohail{
+    color:red;
+}
+
+button{
+    color:black;
+    background-color: blanchedalmond;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
